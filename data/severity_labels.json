@@ -1,0 +1,34 @@
+{
+  "Apple___Apple_scab": {
+    "severity": 0.7,
+    "description": "High severity due to significant leaf damage"
+  },
+  "Apple___Black_rot": {
+    "severity": 0.8,
+    "description": "Very high severity with fruit rot and cankers"
+  },
+  "Corn___Common_rust": {
+    "severity": 0.5,
+    "description": "Moderate severity with pustules on leaves"
+  },
+  "Potato___Early_blight": {
+    "severity": 0.6,
+    "description": "Moderate to high severity with leaf lesions"
+  },
+  "Tomato___Leaf_Mold": {
+    "severity": 0.4,
+    "description": "Low to moderate severity with leaf discoloration"
+  },
+  "Tomato___Late_blight": {
+    "severity": 0.5,
+    "description": "Default moderate severity"
+  },
+  "Grape___Black_rot": {
+    "severity": 0.5,
+    "description": "Default moderate severity"
+  },
+  "Orange___Haunglongbing": {
+    "severity": 0.5,
+    "description": "Default moderate severity"
+  }
+}

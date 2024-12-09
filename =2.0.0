@@ -1,0 +1,7 @@
+Collecting SPARQLWrapper
+  Downloading SPARQLWrapper-2.0.0-py3-none-any.whl (28 kB)
+Requirement already satisfied: rdflib>=6.1.1 in /home/sirapop/anaconda3/lib/python3.9/site-packages (from SPARQLWrapper) (7.1.1)
+Requirement already satisfied: pyparsing<4,>=2.1.0 in /home/sirapop/anaconda3/lib/python3.9/site-packages (from rdflib>=6.1.1->SPARQLWrapper) (3.0.4)
+Requirement already satisfied: isodate<1.0.0,>=0.7.2 in /home/sirapop/anaconda3/lib/python3.9/site-packages (from rdflib>=6.1.1->SPARQLWrapper) (0.7.2)
+Installing collected packages: SPARQLWrapper
+Successfully installed SPARQLWrapper-2.0.0

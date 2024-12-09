@@ -1,0 +1,30 @@
+Plant Disease: Apple Scab
+Host Plant: Apple
+Description: Apple scab is a fungal disease caused by Venturia inaequalis. Symptoms include dark, scaly lesions on leaves and fruit. The disease thrives in cool, wet conditions and can significantly reduce fruit quality and yield.
+Symptoms: Dark olive-green to brown spots on leaves, rough or corky patches on fruit surface.
+Favorable Conditions: Humid conditions, temperatures between 55-75°F, frequent rainfall.
+---
+Plant Disease: Black Rot
+Host Plant: Apple
+Description: Black rot is caused by the fungus Botryosphaeria obtusa. It affects leaves, fruit, and bark. The disease can cause significant fruit rot and branch dieback.
+Symptoms: Purple spots on leaves, rotting fruit with concentric rings, cankers on branches.
+Favorable Conditions: Warm, humid weather, poor sanitation, tree stress.
+---
+Plant Disease: Common Rust
+Host Plant: Corn
+Description: Common rust is caused by the fungus Puccinia sorghi. It produces small, circular to elongate brown pustules on both leaf surfaces. The disease can reduce yield in susceptible varieties.
+Symptoms: Circular to elongated brown pustules, chlorotic areas around pustules.
+Favorable Conditions: Cool temperatures (60-70°F), high humidity, heavy dew.
+---
+Plant Disease: Early Blight
+Host Plant: Potato
+Description: Early blight is caused by Alternaria solani. It affects leaves, stems, and tubers. The disease can cause significant defoliation and yield reduction.
+Symptoms: Dark brown lesions with concentric rings, yellowing of surrounding tissue.
+Favorable Conditions: Warm temperatures, high humidity, extended leaf wetness.
+---
+Plant Disease: Leaf Mold
+Host Plant: Tomato
+Description: Leaf mold is caused by the fungus Passalora fulva. It primarily affects leaves and can cause significant defoliation in greenhouse tomatoes.
+Symptoms: Pale green to yellow spots on upper leaf surface, olive-green to brown fuzzy growth on lower surface.
+Favorable Conditions: High humidity (85% or higher), moderate temperatures.
+---
